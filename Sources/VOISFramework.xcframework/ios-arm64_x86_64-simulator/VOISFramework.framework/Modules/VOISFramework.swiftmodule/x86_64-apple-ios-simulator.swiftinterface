@@ -6,6 +6,8 @@ import Foundation
 import Swift
 import _Concurrency
 import _StringProcessing
+@_exported import __ObjC
 public struct VoisOpenSDK {
   public static func getRandom() -> Swift.String
+  public static func getRandomFromC() -> Swift.String
 }

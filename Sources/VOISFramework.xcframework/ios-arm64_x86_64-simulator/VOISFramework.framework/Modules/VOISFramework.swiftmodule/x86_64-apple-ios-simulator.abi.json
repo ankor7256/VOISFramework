@@ -40,6 +40,28 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomFromC",
+            "printedName": "getRandomFromC()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13VOISFramework11VoisOpenSDKV14getRandomFromCSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV14getRandomFromCSSyFZ",
+            "moduleName": "VOISFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",

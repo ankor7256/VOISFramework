@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#include "TestRandom.h"
 
 //! Project version number for VOISPrivateFramework.
 FOUNDATION_EXPORT double VOISPrivateFrameworkVersionNumber;
