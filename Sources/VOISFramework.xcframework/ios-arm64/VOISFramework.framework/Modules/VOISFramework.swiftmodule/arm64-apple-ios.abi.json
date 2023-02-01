@@ -1,0 +1,56 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VOISFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VoisOpenSDK",
+        "printedName": "VoisOpenSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getRandom",
+            "printedName": "getRandom()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13VOISFramework11VoisOpenSDKV9getRandomSSyF",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV9getRandomSSyF",
+            "moduleName": "VOISFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:13VOISFramework11VoisOpenSDKV",
+        "mangledName": "$s13VOISFramework11VoisOpenSDKV",
+        "moduleName": "VOISFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

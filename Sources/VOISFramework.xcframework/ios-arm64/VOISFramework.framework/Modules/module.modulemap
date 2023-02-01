@@ -1,0 +1,4 @@
+framework module VOISFramework {
+  header "VOISFramework-Swift.h"
+  requires objc
+}
