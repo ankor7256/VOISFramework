@@ -32,9 +32,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:13VOISFramework11VoisOpenSDKV9getRandomSSyF",
-            "mangledName": "$s13VOISFramework11VoisOpenSDKV9getRandomSSyF",
+            "usr": "s:13VOISFramework11VoisOpenSDKV9getRandomSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV9getRandomSSyFZ",
             "moduleName": "VOISFramework",
+            "static": true,
             "declAttributes": [
               "AccessControl"
             ],

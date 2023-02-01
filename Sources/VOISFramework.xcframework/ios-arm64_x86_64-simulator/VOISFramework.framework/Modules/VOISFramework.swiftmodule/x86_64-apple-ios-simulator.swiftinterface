@@ -7,5 +7,5 @@ import Swift
 import _Concurrency
 import _StringProcessing
 public struct VoisOpenSDK {
-  public func getRandom() -> Swift.String
+  public static func getRandom() -> Swift.String
 }
