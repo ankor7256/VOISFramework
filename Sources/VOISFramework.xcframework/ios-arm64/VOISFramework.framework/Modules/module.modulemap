@@ -6,9 +6,6 @@ framework module VOISFramework {
     export *
     module * {export *}
 
-
-    header "TestRandom.h"
-    header "ClosedCFile.h"
 }
 
 module VOISFramework.Swift {
