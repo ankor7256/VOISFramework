@@ -6,4 +6,3 @@
 //
 
 #include "TestRandom.h"
-#include "ClosedCFile.h"

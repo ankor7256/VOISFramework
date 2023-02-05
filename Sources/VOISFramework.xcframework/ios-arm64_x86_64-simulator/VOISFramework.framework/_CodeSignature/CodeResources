@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/ClosedCFile.h</key>
-		<data>
-		yLcDBuKTNOIwd5S8mif+dTR98dc=
-		</data>
 		<key>Headers/TestRandom.h</key>
 		<data>
 		r2cDBslFiWRmzZkSaaIpTxtOGqY=
@@ -18,7 +14,7 @@
 		</data>
 		<key>Headers/VOISFramework.h</key>
 		<data>
-		3RqN7qgXZ9hbZZ5uUwGs3f70aIA=
+		SS04Pei5zC7X5v+za3+5F+OEaCs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -66,18 +62,15 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		F/gskVeV8y/S2Upi4JhegMbf/vs=
+		xCq6cp2Csqa/Z6pitBS/zsxeoU4=
+		</data>
+		<key>PrivateHeaders/ClosedCFile.h</key>
+		<data>
+		yLcDBuKTNOIwd5S8mif+dTR98dc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/ClosedCFile.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			S5W5mSHis3lBBWCG/FWdcypp04Am38DrPE7VLcP6FX0=
-			</data>
-		</dict>
 		<key>Headers/TestRandom.h</key>
 		<dict>
 			<key>hash2</key>
@@ -96,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YO8L6N0ABHs2mtuCT9OFzo1RHPgxKSh8/GuF6E2EUQw=
+			SepQsGoASvSaTB7q0ZAoaiRntuoDNi/gvoLqinyC96k=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -173,7 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z400Qblt9P4z+GNQN/6IeEUFKaBSr84xwtNJkS4dFhQ=
+			qkfCR3hELzVusDE+K8u8IG/wA+5gxD2WPnxkjjgWPDY=
+			</data>
+		</dict>
+		<key>PrivateHeaders/ClosedCFile.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S5W5mSHis3lBBWCG/FWdcypp04Am38DrPE7VLcP6FX0=
 			</data>
 		</dict>
 	</dict>
